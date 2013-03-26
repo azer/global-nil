@@ -1,0 +1,18 @@
+{
+  "name": "global-nil",
+  "version": "0.0.0",
+  "description": "Defines 'nil' as global.",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "dependencies": {
+    "fox": "*"
+  },
+  "repository": {
+    "url": "git@github.com:azer\/global-nil.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD"
+}
